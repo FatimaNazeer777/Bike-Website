@@ -72,7 +72,7 @@ export default function Navbar() {
                   About
                 </Link>
                 <Link href="bestsale" className="rounded-md px-3 py-2 text-sm font-medium duration-700 text-gray-300 hover:bg-red-700 hover:text-white">
-                  services
+                  Services
                 </Link>
                 <Link href="contect" className="rounded-md px-3 py-2 text-sm font-medium duration-700 text-gray-300 hover:bg-red-700 hover:text-white">
                   Contact
