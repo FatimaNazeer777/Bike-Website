@@ -36,7 +36,7 @@ export default function Contact() {
                       />
                     </svg>
                     <h5 className="text-black text-base font-normal leading-6 ml-5">
-                      +923172710120
+                      +923151200841
                     </h5>
                   </a>
                   <a
